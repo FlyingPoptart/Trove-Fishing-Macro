@@ -1,0 +1,1 @@
+On the line "Pointer := ReadMemory(0x05D3639C,"Trove")", replace "0x05D3639C" with the designated memory address as acquired from cheat engine.
